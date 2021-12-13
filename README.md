@@ -1,4 +1,5 @@
-# Lexlam-Data-Science-
+# Data Science Python Developer
+
 My Python and Data Science portfolio
 
 <p align="center">
