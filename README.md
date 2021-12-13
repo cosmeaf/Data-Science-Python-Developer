@@ -17,7 +17,7 @@ Thus, adding years of experience plus dedication, willpower and persistence, I d
 
 My credentials include an MBA in IT Project Management at the VINCIT Innovation Center - UNICIV, Graduated in information system at UERJ, an institution of higher education and advanced research, classified as one of the best and most prestigious schools in Brazil.
 
-**Background in:** Unix/Linux Virtualzacão vMware, OracleVM, Python, Data Science
+**Background in:** Python Developer, Data Science, Sysadmin Unix/Linux Support Administration Virtualzacão vMware, OracleVM
 
 **Links:**
 * [Blog](http://#)
