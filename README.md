@@ -2,11 +2,12 @@
 My Python and Data Science portfolio
 
 <p align="center">
-  <img src="banner.png" >
+ [banner](https://user-images.githubusercontent.com/45183265/145827684-b75b4e0e-8e50-4de6-a302-349d9b5316d5.png)
 </p>
 
 # Cosme Alves
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Lead Data Scientist* at Space Operations Center</sub>!
+
 
 As an experienced Systems Analyst, combined with Sysadmin skills on UNIX/LINUX/VMware/Oracle systems among others.
 Acting in recent years and having the privilege of working in the best companies in Brazil such as:
