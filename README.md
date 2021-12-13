@@ -2,7 +2,7 @@
 My Python and Data Science portfolio
 
 <p align="center">
- [banner](https://user-images.githubusercontent.com/45183265/145827684-b75b4e0e-8e50-4de6-a302-349d9b5316d5.png)
+  <img src="banner.png" >
 </p>
 
 # Cosme Alves
